@@ -149,9 +149,9 @@
           <div style="color: #CBD5E1; font-size: 12px;">May 25</div>
         </td>
         <td align="center" style="padding: 20px;">
-          <div style="font-size: 48px; font-weight: 800; background: linear-gradient(135deg, #3B82F6, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">19</div>
+          <div style="font-size: 48px; font-weight: 800; background: linear-gradient(135deg, #3B82F6, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">34</div>
           <div style="color: #94A3B8; font-size: 14px; margin-top: 8px;">⚡ Longest Streak</div>
-          <div style="color: #CBD5E1; font-size: 12px;">Apr 21 - May 9</div>
+          <div style="color: #CBD5E1; font-size: 12px;">Apr 21 - May </div>
         </td>
       </tr>
     </table>
@@ -203,7 +203,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradientColorStart=0F172A&gradientColorEnd=3B82F6" width="100%" />
 <img src="https://visit-counter.vercel.app/count?username=Muhammad-Ali-Anjum&label=Profile%20Views&color=3B82F6&icon=github" alt="Profile Views" /><p style="color: #94A3B8; margin-top: 20px;">
-  ⚡ <strong>Always building, always learning</strong> — open to collaborations on AI & full‑stack projects.<br />
+  ⚡ <strong>Always building, always learning</strong> open to collaborations on AI & full‑stack projects.<br />
   💡 <em>"Code is poetry. AI is magic. Together, they build the future."</em>
 </p>
 </div>
